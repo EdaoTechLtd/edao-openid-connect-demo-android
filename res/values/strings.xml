@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">翼道登录Demo</string>
+    <string name="action_settings">设置</string>
+    <string name="login">登录</string>
+    <string name="edao_login">翼道快捷登录</string>
+    <string name="edao_login_success">恭喜您! 翼道快捷登录成功</string>
+    <string name="ok">确定</string>
+
+</resources>
